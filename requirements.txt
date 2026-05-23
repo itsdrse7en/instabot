@@ -1,2 +1,1 @@
-instaloader>=4.13
 requests>=2.32
